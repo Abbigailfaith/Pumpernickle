@@ -1,0 +1,74 @@
+Body {
+      Background-color: #581845;
+      Color: #FFC300;
+}
+h1{
+    color: #DAF7A6
+}
+ a:visited{
+  text-decoration: none;
+  color: #FF5733;
+
+
+}
+
+a:link{
+  text-decoration: none;
+  color: #FF5733;
+Font-Size: 25px;
+}
+.nav {
+  display: inline;
+}
+
+h2{
+  font-family: 'Amatic SC', cursive;
+  Color:#DAF7A6;
+  font-size:  40px;
+
+}
+
+h1{
+  font-family: 'Sacramento', cursive;
+  Font-size: 60px;
+}
+
+h4{
+  font-family: 'Alex Brush', cursive;
+  font-size: 30px;
+  color: #C70039;
+}
+
+p{
+  Font-size: 20px;
+  font-family: 'Fredericka the Great', cursive;
+}
+
+input[type=text], select, textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical
+}
+
+input[type=submit] {
+  background-color: #4CAF50;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: #45a049;
+}
+
+.container {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;
